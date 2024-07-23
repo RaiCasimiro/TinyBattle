@@ -1,1 +1,3 @@
-<h1>Bem-vindo ao Tiny Battle!</h1>
+<h1 style="justify-content: center">Bem-vindo ao Tiny Battle!</h1>
+
+
