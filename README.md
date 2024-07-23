@@ -5,5 +5,5 @@
 <br><br><br>
 <h3>Tiny Battle é um jogo desenvolvido na trilha educacional do Bootcamp da DIO "Criando Jogos com Godot", onde foi possível que nós, alunos, desenvolvessemos nossas habilidades como designers e desenvolvedores de games, nos dando a nossa primeira experiência.</h3>
 
-<img src="Imagens/1" alt="">
-
+<br><br>
+<h3>O jogo está disponível no site Itch.io através do link <strong>"https://raicasimiro.itch.io/tiny-battle"</strong>. Espero que se divirtam!</h3>
